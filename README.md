@@ -1,4 +1,4 @@
-# CYBERPUNK 2077 WHATS
+# CYBERPUNK 2077 ZAP
 
 ### Envie o grande questionamento para os seu amigos, onde estão os outros 2076 Cyberpunks?
 
