@@ -14,6 +14,6 @@
 
 <p>Créditos:</p>
 
-<p>Sricpt de mensagens do whatsapp: https://github.com/Matt-Fontes</p>
+<p>Script de mensagens do whatsapp: https://github.com/Matt-Fontes</p>
   
 <p>Edição Cyberpunk 2077: https://github.com/TSPsoftware?tab=repositories</p>
