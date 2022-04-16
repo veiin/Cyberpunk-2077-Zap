@@ -2,7 +2,7 @@
 
 ### Envie o grande questionamento para os seu amigos, onde estão os outros 2076 Cyberpunks?
 
-<p>Abra script.js</p>
+<p>Abra cyberpunk.js</p>
 
 <p>Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)</p>
 
